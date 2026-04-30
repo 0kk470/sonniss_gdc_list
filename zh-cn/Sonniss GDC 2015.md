@@ -1,6 +1,6 @@
 ﻿# GDC Sonniss 2015
 
-**官方页面：** https://sonniss.com/gameaudiogdc/（选择 GDC 2015 标签页）
+**官方页面：** [sonniss.com/gameaudiogdc](https://sonniss.com/gameaudiogdc/)（选择 GDC 2015 标签页）
 
 **直链下载：**
 
