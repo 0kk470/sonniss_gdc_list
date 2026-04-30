@@ -1,0 +1,15 @@
+# 忽略所有音效压缩包（体积过大，且官方不允许二次分发）
+*.zip
+*.ZIP
+
+# macOS 残留
+__MACOSX/
+.DS_Store
+
+# Windows 缩略图缓存
+Thumbs.db
+desktop.ini
+
+# Python 缓存
+__pycache__/
+*.pyc
