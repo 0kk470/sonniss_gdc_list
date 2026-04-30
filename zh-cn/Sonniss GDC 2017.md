@@ -16,4 +16,4 @@
 | Part 8 | [下载](https://ftpmirror.your.org/pub/misc/sonniss2017/Sonniss.com%20-%20GDC%202017%20-%20Game%20Audio%20Bundle%20Part%208of9.zip) |
 | Part 9 | [下载](https://ftpmirror.your.org/pub/misc/sonniss2017/Sonniss.com%20-%20GDC%202017%20-%20Game%20Audio%20Bundle%20Part%209of9.zip) |
 
-> ⏳ 音效包尚未分析，请将对应 ZIP 文件放入 `音效包/` 目录后，按 [WORKFLOW.md](../WORKFLOW.md) 步骤运行脚本并更新本页。
+> ⏳ 音效包尚未分析。请将对应 ZIP 文件放入项目根目录，然后将 [WORKFLOW.md](../WORKFLOW.md) 提供给 AI 模型（如 Claude、Codex 等）阅读分析并按步骤执行以更新本页。
