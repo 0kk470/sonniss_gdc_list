@@ -1,6 +1,6 @@
 # GDC Sonniss 2017
 
-**Official page:** https://sonniss.com/gameaudiogdc/ (select GDC 2017 tab)
+**Official page:** [sonniss.com/gameaudiogdc](https://sonniss.com/gameaudiogdc/) (select GDC 2017 tab)
 
 **Direct downloads (mirror):**
 

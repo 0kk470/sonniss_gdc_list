@@ -1,6 +1,6 @@
 # GDC Sonniss 2015
 
-**Official page:** https://sonniss.com/gameaudiogdc/ (select GDC 2015 tab)
+**Official page:** [sonniss.com/gameaudiogdc](https://sonniss.com/gameaudiogdc/) (select GDC 2015 tab)
 
 **Direct downloads:**
 
