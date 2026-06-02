@@ -13,7 +13,7 @@ A complete index of the free sound effect bundles released annually by Sonniss d
 | Year | Catalog File | Status |
 |------|-------------|--------|
 | 2015 | [Sonniss GDC 2015.md](Sonniss%20GDC%202015.md) | ✅ |
-| 2016 | [Sonniss GDC 2016.md](Sonniss%20GDC%202016.md) | ⏳ |
+| 2016 | [Sonniss GDC 2016.md](Sonniss%20GDC%202016.md) | ✅ |
 | 2017 | [Sonniss GDC 2017.md](Sonniss%20GDC%202017.md) | ⏳ |
 | 2018 | [Sonniss GDC 2018.md](Sonniss%20GDC%202018.md) | ⏳ |
 | 2019 | [Sonniss GDC 2019.md](Sonniss%20GDC%202019.md) | ⏳ |
